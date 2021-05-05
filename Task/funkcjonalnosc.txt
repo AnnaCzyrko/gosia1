@@ -1,0 +1,13 @@
+Testowane na przegladarce googlechrome
+logowanie oraz rejstracja uzytkownika : malgosia0609@o2.pl , Malgorzta Paluszek
+Poprawnie dzialajaca wyszukiwarka
+Poprawnie działace sortowanie
+Mozliwosc dodania produktu do koszyka
+Mozliwosc wybrania sukienki/bluzki
+Dzialajacy filtr
+Mozliwosc otworzenia opisu
+Sprawdzenie "Special"
+Brak mozliwosci sprawdzenia "our stores" 
+Dziala wyszukiwanie "Fashion Supplier"
+Mozliwosc wybrania rozmiaru podczas dokladania do koszyka
+Udalo sie przejsc proces zakupow pomyslnie
